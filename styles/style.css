@@ -66,7 +66,7 @@ h6{
 }
 .year{
     margin-left: 150px;
-    margin-top: 358px
+    margin-top: 65px
 }
 .year h3{
     font-size: 30px;
@@ -91,14 +91,12 @@ h6{
     display: block;
     color: #151414;
     font-size: 40px;
-    line-height: 50px;
     margin-bottom: 20px;
 }
 .section-description{
     display: block;
     margin-top: 15px;
     margin-bottom: 20px;
-    line-height: 25px;
     color: #444343;
 }
 /* my creation */
@@ -112,17 +110,15 @@ h6{
 }
 .my-creation .my-content{
     text-align: center;
-    margin-top: 300px;
+    margin-top: 160px;
     padding-left: 65px;
     font-size: 18px;
-    line-height: 26px;
 }
 .my-creation h3{
     font-size: 40px;
     margin-bottom: 25px;
     font-weight: 700;
     color: #151414;
-    line-height: 47px;
 }
 .my-creation .creation-description{
     color: #444343;
